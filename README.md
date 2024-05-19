@@ -79,7 +79,10 @@ Accessing the project involves a few steps:
 * Start the Apache and MySQL services in XAMPP, and access the application via your web browser at http://localhost/5000.
 ## Screenshots
 
-![App Screenshot](ScreenShots/WebPage1.png)
+![App Screenshot](Screenshots/1.png)
+
+![App Screenshot](Screenshots/2.png)
+
 ## Conclusion
 
 The Online Service Management System is a robust solution for businesses looking to streamline their service operations. With its powerful features, including a dashboard, login system, user panel, and admin panel, it simplifies the management of service requests, scheduling, and customer data. This system enhances efficiency and customer satisfaction, making it an ideal choice for businesses of all sizes. Whether you're a small business or a larger enterprise, this system can be tailored to meet your specific needs and help you deliver exceptional service to your customers.
